@@ -1,0 +1,2 @@
+www.google.com|abc.gmail.com|122323
+www.c.com|abc.gmail.com|1212232
